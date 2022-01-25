@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<!-- saved from url=(0110)file:///C:/Users/flash/OneDrive/Desktop/Project%20Final/Project%20Final/bootcamp%20project/bootcampindex.html# -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<title>The Nina Dobrev Resume</title>
+	<link href="./The Nina Dobrev Resume_files/sprinkles styles.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	<section id="main">
+		<nav>
+		<a href="file:///C:/Users/flash/OneDrive/Desktop/Project%20Final/Project%20Final/bootcamp%20project/bootcampindex.html#" class="logo">
+			<img src="./The Nina Dobrev Resume_files/58598f8e4f6ae202fedf28c1.png" alt="THE LOGO OF PROJ NINA">
+		</a>
+		<span class="menu-space"></span>
+		<ul class="menu">
+			<li><a href="file:///C:/Users/flash/OneDrive/Desktop/Project%20Final/Project%20Final/bootcamp%20project/bootcampindex.html#">HOME</a></li>
+			<li><a href="file:///C:/Users/flash/OneDrive/Desktop/Project%20Final/Project%20Final/bootcamp%20project/bootcampindex.html#">SKILLS</a></li>
+			<li><a href="file:///C:/Users/flash/OneDrive/Desktop/Project%20Final/Project%20Final/bootcamp%20project/bootcampindex.html#">RECENT</a></li>
+			<li><a href="file:///C:/Users/flash/OneDrive/Desktop/Project%20Final/Project%20Final/bootcamp%20project/bootcampindex.html#">CLIENTS</a></li>
+			<li><a href="file:///C:/Users/flash/OneDrive/Desktop/Project%20Final/Project%20Final/bootcamp%20project/bootcampindex.html#">CONTACTS</a></li>
+		</ul>
+		<a href="file:///C:/Users/flash/OneDrive/Desktop/Project%20Final/Project%20Final/bootcamp%20project/bootcampindex.html#" class="hey"><u>Say Hi</u></a>
+		</nav>
+	</section>
+	<div class="content">
+		<div class="image">
+			<img src="./The Nina Dobrev Resume_files/s3.jpg" alt="NINA">
+		</div>
+		<div class="maintext">
+			<h1>Hello, I am<br>Nina Dobrev.</h1>
+			<p>Hey, in this video I will show you how to build a website using HTML and CSS</p>
+			<a href="file:///C:/Users/flash/OneDrive/Desktop/Project%20Final/Project%20Final/bootcamp%20project/bootcampindex.html#" class="Resumebutton">See My Resume</a>
+		</div>
+
+
+	</div>
+
+
+</body></html>
